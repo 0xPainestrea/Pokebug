@@ -1,3 +1,6 @@
+# about 
+I'm tried to create a pokemon website with svelte but it has a fucking shit error and you know ?  i don't care , fuck it my code.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
